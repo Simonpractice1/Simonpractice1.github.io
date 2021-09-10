@@ -18,17 +18,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://simonpractice1.github.io/publication/example/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;title: &amp;ldquo;Complex Tax Incentives&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;Learning about Job Search: A Field Experiment with Job Seekers in Germany&amp;rdquo;&lt;/p&gt;
 &lt;h1 id=&#34;authors&#34;&gt;Authors&lt;/h1&gt;
 &lt;h1 id=&#34;if-you-created-a-profile-for-a-user-eg-the-default-admin-user-write-the-username-folder-name-here&#34;&gt;If you created a profile for a user (e.g. the default &lt;code&gt;admin&lt;/code&gt; user), write the username (folder name) here&lt;/h1&gt;
 &lt;h1 id=&#34;and-it-will-be-replaced-with-their-full-name-and-linked-to-their-profile&#34;&gt;and it will be replaced with their full name and linked to their profile.&lt;/h1&gt;
 &lt;p&gt;authors:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;admin&lt;/li&gt;
-&lt;li&gt;Johannes Abeler&lt;/li&gt;
+&lt;li&gt;Steffen Altmann&lt;/li&gt;
+&lt;li&gt;Armin Falk&lt;/li&gt;
+&lt;li&gt;Florian Zimmermann&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;date: &amp;ldquo;2015-08&amp;rdquo;
-doi: &amp;ldquo;&lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/pol.20130137%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.aeaweb.org/articles?id=10.1257/pol.20130137&#34;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;date: &amp;ldquo;2018-08&amp;rdquo;
+doi: &amp;ldquo;&lt;a href=&#34;https://doi.org/10.1016/j.jpubeco.2018.05.003%22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jpubeco.2018.05.003&#34;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;schedule-page-publish-date-not-publications-date&#34;&gt;Schedule page publish date (NOT publication&amp;rsquo;s date).&lt;/h1&gt;
 &lt;h1 id=&#34;publishdate-2017-01-01t000000z&#34;&gt;publishDate: &amp;ldquo;2017-01-01T00:00:00Z&amp;rdquo;&lt;/h1&gt;
 &lt;h1 id=&#34;publication-type&#34;&gt;Publication type.&lt;/h1&gt;
@@ -42,7 +44,7 @@ doi: &amp;ldquo;&lt;a href=&#34;https://www.aeaweb.org/articles?id=10.1257/pol.2
 &lt;h1 id=&#34;links&#34;&gt;links:&lt;/h1&gt;
 &lt;h1 id=&#34;--name-custom-link&#34;&gt;- name: Custom Link&lt;/h1&gt;
 &lt;h1 id=&#34;url-httpexampleorg&#34;&gt;url: &lt;a href=&#34;http://example.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.org&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;url_pdf: &amp;lsquo;&lt;a href=&#34;https://scholar.harvard.edu/files/jaeger/files/abeler_jaeger_2015_complex_tax_incentives_0.pdf%27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.harvard.edu/files/jaeger/files/abeler_jaeger_2015_complex_tax_incentives_0.pdf&#39;&lt;/a&gt;
+&lt;p&gt;url_pdf: &amp;lsquo;&lt;a href=&#34;http://economics.mit.edu/files/13778%27&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://economics.mit.edu/files/13778&#39;&lt;/a&gt;
 url_code: &#39;&amp;rsquo;
 url_dataset: &#39;&#39;
 url_poster: &#39;&#39;
@@ -50,8 +52,8 @@ url_project: &#39;&#39;
 url_slides: &#39;&#39;
 url_source: &#39;&#39;
 url_video: &#39;&#39;&lt;/p&gt;
-&lt;p&gt;publication: In &lt;em&gt;American Economic Journal,Economic Policy Vol. 7 No. 3 August 2015&lt;/em&gt;
-abstract: How does complexity affect people&amp;rsquo;s reaction to tax changes? To answer this question, we conduct an experiment in which subjects work for a piece rate and face taxes. One treatment features a simple tax system, the other a complex one. Subjects&#39; economic incentives are identical across treatments. We introduce the same sequence of additional taxes in both treatments. Subjects in the complex treatment underreact to new taxes; some ignore new taxes entirely. The underreaction is stronger for subjects with lower cognitive ability. Contrary to predictions from models of rational inattention, subjects are equally likely to ignore large or small incentive changes (JEL D14, H24, H31)&lt;/p&gt;
+&lt;p&gt;publication: In &lt;em&gt;Journal of Public Economics, Vol. 164, August 2018, pp. 33-49.&lt;/em&gt;
+abstract: We conduct a large-scale field experiment in the German labor market to investigate how information provision affects job seekers’ employment prospects and labor market outcomes. Individuals assigned to the treatment group of our experiment received a brochure that informed them about job search strategies and the consequences of unemployment, and motivated them to actively look for new employment. We study the causal impact of the brochure by comparing labor market outcomes of treated and untreated job seekers in administrative data containing comprehensive information on individuals’ employment status and earnings. The effects of our treatment tend to be positive, but concentrated among job seekers who are at risk of being unemployed for an extended period of time. Specifically, treatment effects in our overall sample are moderately positive on average but mostly insignificant. At the same time, we do observe pronounced and statistically significant effects for individuals who exhibit an increased risk of long-term unemployment. For this group, the brochure increases employment and earnings in the year after the intervention by roughly 4%. Given the low cost of the intervention, our findings indicate that targeted information provision can be a highly effective policy tool in the labor market.&lt;/p&gt;
 &lt;h1 id=&#34;associated-projects-optional&#34;&gt;Associated Projects (optional).&lt;/h1&gt;
 &lt;h1 id=&#34;associate-this-publication-with-one-or-more-of-your-projects&#34;&gt;Associate this publication with one or more of your projects.&lt;/h1&gt;
 &lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
@@ -59,14 +61,14 @@ abstract: How does complexity affect people&amp;rsquo;s reaction to tax changes?
 &lt;h1 id=&#34;otherwise-set-projects-&#34;&gt;Otherwise, set &lt;code&gt;projects: []&lt;/code&gt;.&lt;/h1&gt;
 &lt;p&gt;projects:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;example&lt;/li&gt;
+&lt;li&gt;[]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;slides-optional&#34;&gt;Slides (optional).&lt;/h1&gt;
 &lt;h1 id=&#34;associate-this-publication-with-markdown-slides&#34;&gt;Associate this publication with Markdown slides.&lt;/h1&gt;
 &lt;h1 id=&#34;simply-enter-your-slide-decks-filename-without-extension&#34;&gt;Simply enter your slide deck&amp;rsquo;s filename without extension.&lt;/h1&gt;
 &lt;h1 id=&#34;eg-slides-example-references-contentslidesexampleindexmd&#34;&gt;E.g. &lt;code&gt;slides: &amp;quot;example&amp;quot;&lt;/code&gt; references &lt;code&gt;content/slides/example/index.md&lt;/code&gt;.&lt;/h1&gt;
 &lt;h1 id=&#34;otherwise-set-slides-&#34;&gt;Otherwise, set &lt;code&gt;slides: &amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;h2 id=&#34;slides-example&#34;&gt;slides: example&lt;/h2&gt;
+&lt;h2 id=&#34;slides-&#34;&gt;slides: &amp;quot;&amp;rdquo;&lt;/h2&gt;
 </description>
     </item>
     
