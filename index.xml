@@ -5,12 +5,28 @@
     <link>https://simonpractice1.github.io/</link>
       <atom:link href="https://simonpractice1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Jaeger</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Simon Jaeger</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Simon Jaeger</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://simonpractice1.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Simon Jaeger</title>
       <link>https://simonpractice1.github.io/</link>
     </image>
+    
+    <item>
+      <title>Labor in the Boardroom</title>
+      <link>https://simonpractice1.github.io/publication/jhs_2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://simonpractice1.github.io/publication/jhs_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wages and the Value of Nonemployment</title>
+      <link>https://simonpractice1.github.io/publication/jsyz_2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://simonpractice1.github.io/publication/jsyz_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning about Job Search: A Field Experiment with Job Seekers in Germany</title>
