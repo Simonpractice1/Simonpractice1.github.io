@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Simon Jaeger</title>
+    <title>Tags | Simon Jäger</title>
     <link>https://simonpractice1.github.io/tags/</link>
       <atom:link href="https://simonpractice1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Simon Jaeger</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Simon Jäger</copyright>
     <image>
       <url>https://simonpractice1.github.io/media/icon_hu5a29f543dde91b3e968d7f41ddaccafe_10872_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
